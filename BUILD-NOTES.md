@@ -1,6 +1,7 @@
 # Local 2.5 build
 
-Private mirror of [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) (MIT).
+Fork of [psiberx/cp2077-codeware](https://github.com/psiberx/cp2077-codeware) (MIT).
+Branch `fix-reflection-call-return` is [PR #65](https://github.com/psiberx/cp2077-codeware/pull/65).
 
 | Branch | Contents |
 |---|---|
