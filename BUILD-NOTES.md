@@ -32,3 +32,8 @@ pwsh -File tools\dist\package-mod.ps1 -ReleaseBin build\windows\x64\release\Code
 Output: `build\dist\Codeware-1.20.6.zip`, extract into the game folder.
 
 Switch back to the official release once Codeware ships 2.5 support.
+
+## Retired (Oct 31, 2026)
+
+The official release with patch 2.5 support is installed now (Codeware 1.21.2). This branch is kept
+for reference only.
